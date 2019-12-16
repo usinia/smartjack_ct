@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/smartjack_ct/static/js/main.ab1dfd34.chunk.js",
+    "main.js.map": "/smartjack_ct/static/js/main.ab1dfd34.chunk.js.map",
+    "runtime-main.js": "/smartjack_ct/static/js/runtime-main.212d0001.js",
+    "runtime-main.js.map": "/smartjack_ct/static/js/runtime-main.212d0001.js.map",
+    "static/js/2.9de3e4f7.chunk.js": "/smartjack_ct/static/js/2.9de3e4f7.chunk.js",
+    "static/js/2.9de3e4f7.chunk.js.map": "/smartjack_ct/static/js/2.9de3e4f7.chunk.js.map",
+    "index.html": "/smartjack_ct/index.html",
+    "precache-manifest.3330fb95c69f60ffb003b1940d73a636.js": "/smartjack_ct/precache-manifest.3330fb95c69f60ffb003b1940d73a636.js",
+    "service-worker.js": "/smartjack_ct/service-worker.js",
+    "static/js/2.9de3e4f7.chunk.js.LICENSE": "/smartjack_ct/static/js/2.9de3e4f7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212d0001.js",
+    "static/js/2.9de3e4f7.chunk.js",
+    "static/js/main.ab1dfd34.chunk.js"
+  ]
+}
