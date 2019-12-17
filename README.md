@@ -8,3 +8,14 @@ Smart Jack Coding Test
 $ yarn add rc-pagination
 $ yarn add styled-components
 ```
+
+### deploy
+
+```shell
+$ yarn build
+$ yarn run deploy
+```
+
+### Try It
+
+<https://usinia.github.io/smartjack_ct/>
