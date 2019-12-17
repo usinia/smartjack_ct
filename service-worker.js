@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/smartjack_ct/precache-manifest.3330fb95c69f60ffb003b1940d73a636.js"
+  "/smartjack_ct/precache-manifest.69f032a1aa4bd295f889db9221a1455f.js"
 );
 
 self.addEventListener('message', (event) => {
